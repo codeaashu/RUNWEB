@@ -4,9 +4,9 @@
 # TechStack Uses : HTML - CSS - JS - FIGMA
 
 # Our Services
-## We Help to built startup websites
->>> Website Builders
->>> Content Management System
+We Help to built startup websites
+> Website Builders
+> Content Management System
 >>> Web Design
 >>> Hosting Service
 >>> E-Commerce Solutions
